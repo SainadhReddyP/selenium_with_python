@@ -16,8 +16,20 @@ Automation Testers.
 - Test Automation automates the testing process and performs the testing
 on behalf of Testers.
 
-> What type of Applications that Selenium can automate?
+> What type of Applications that Selenium can automate? - Only web applications
+- Selenium can be used for only web applications (runs on browser).
+
 - Web applications: Any application which runs on the browser.
-Examples: Amazon, Flipkart
+Examples: Amazon, Flipkart, etc.
+
 - Desktop applications: Any application which runs directly on the operating system.
-Examples: Paint, Adobe acrobat pdf reader,
+Examples: Paint, Adobe acrobat pdf reader, etc.
+Tools - UFT, Test Complete, etc.
+
+- Mobile applications: Any application which can be installed on mobile devices and
+can be used on mobile devices.
+Examples: Whatsapp, Yono SBI, etc.
+Tools: Appium
+
+
+
