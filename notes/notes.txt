@@ -10,3 +10,8 @@ Examples: Selenium, UFT, Test Complete, Cypress, Playwright, Tosca, etc.
 - Testers will do some coding and put the developed code into the Automation tool.
 Automation tool will perform testing with the help of the code developed by the
 Automation Testers.
+
+> What is Selenium?
+- A Test Automation Tool.
+- Test Automation automates the testing process and performs the testing
+on behalf of Testers.
