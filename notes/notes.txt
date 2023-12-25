@@ -37,7 +37,9 @@ Tools: Appium, etc.
 
 > Selenium updates - https://www.selenium.dev/blog/
 
+> Selenium is an open source tool.
 
+Github link - https://github.com/SeleniumHQ/selenium
 
 
 
