@@ -1,6 +1,12 @@
 > Manual Testing
-- Testing will be directly performed by the Software Tester instead of using any Test Automation Tools.
+- Testing will be directly performed by the Software Tester instead of using
+any Test Automation Tools.
 
 > Automation Testing
 - Testing is performed by Test Automation Tools on behalf of Testers.
 Examples: Selenium, UFT, Test Complete, Cypress, Playwright, Tosca, etc.
+
+> How can an Automation Tool perform Testing?
+- Testers will do some coding and put the developed code into the Automation tool.
+Automation tool will perform testing with the help of the code developed by the
+Automation Testers.
