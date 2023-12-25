@@ -33,9 +33,11 @@ Tools: Appium, etc.
 
 > Selenium official website - https://www.selenium.dev/
 
-Documentation - https://www.selenium.dev/documentation/
+> Documentation - https://www.selenium.dev/documentation/
 
->
+> Selenium updates - https://www.selenium.dev/blog/
+
+
 
 
 
