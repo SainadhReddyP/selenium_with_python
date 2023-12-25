@@ -29,7 +29,13 @@ Tools - UFT, Test Complete, etc.
 - Mobile applications: Any application which can be installed on mobile devices and
 can be used on mobile devices.
 Examples: Whatsapp, Yono SBI, etc.
-Tools: Appium
+Tools: Appium, etc.
+
+> Selenium official website - https://www.selenium.dev/
+
+Documentation - https://www.selenium.dev/documentation/
+
+>
 
 
 
