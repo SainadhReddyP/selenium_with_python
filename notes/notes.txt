@@ -43,7 +43,8 @@ Github link - https://github.com/SeleniumHQ/selenium
 
 > Browsers supported by Selenium
 - Chrome, Firefox, Edge, Opera, Safari and
-Internet Explorer (Microsoft has deprecated this browser).
+Internet Explorer (Microsoft has deprecated this browser on June 15, 2022).
+
 
 
 
