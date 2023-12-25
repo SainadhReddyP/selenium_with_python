@@ -15,3 +15,9 @@ Automation Testers.
 - A Test Automation Tool.
 - Test Automation automates the testing process and performs the testing
 on behalf of Testers.
+
+> What type of Applications that Selenium can automate?
+- Web applications: Any application which runs on the browser.
+Examples: Amazon, Flipkart
+- Desktop applications: Any application which runs directly on the operating system.
+Examples: Paint, Adobe acrobat pdf reader,
