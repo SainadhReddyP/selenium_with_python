@@ -52,6 +52,13 @@ and is currently officially unsupported. (In latest versions of Selenium).
 
 > Different Operaiting Systems Supported by Selenium - Windows, Mac & Linux.
 
+- https://www.selenium.dev/downloads/
+
+
+
+
+
+
 
 
 
