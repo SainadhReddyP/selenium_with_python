@@ -45,6 +45,16 @@ Github link - https://github.com/SeleniumHQ/selenium
 - Chrome, Firefox, Edge, Opera, Safari and
 Internet Explorer (Microsoft has deprecated this browser on June 15, 2022).
 
+Note: The Opera driver no longer works with the latest functionality of Selenium
+and is currently officially unsupported. (In latest versions of Selenium).
+
+> Link for Supported Browsers - https://www.selenium.dev/downloads/
+
+> Different Operaiting Systems Supported by Selenium - Windows, Mac & Linux.
+
+
+
+
 
 
 
