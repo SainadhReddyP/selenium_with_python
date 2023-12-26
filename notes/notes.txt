@@ -74,8 +74,27 @@ Drawbacks:
 
 
 2. Selenium RC
+- Deprecated
+
 3. Selenium WebDriver
-4. Selenium Grid
+- A library, set of commands
+
+4. Selenium Grid (Part of WebDriver).
+- Works along with WebDriver.
+- It will distribute automation tests into multiple machines,
+- Parallel Execution.
+
+> Different versions of Selenium.
+- Latest version is 4
+Selenium 1 - Jan 22, 2004
+Selenium 2 - July 08. 2011
+Selenium 3 - Oct 13, 2016
+Selenium 4 - Oct 13, 2021 (Latest as of now.)
+
+- https://www.selenium.dev/downloads/
+
+
+
 
 
 
