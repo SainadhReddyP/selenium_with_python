@@ -10,3 +10,8 @@ Ex: PythonPractice
 Variables
 ----------
 variables are used to store data.
+
+Data Types
+-----------
+int, float, string, boolean
+list, tuple, set, dictionary
