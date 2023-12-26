@@ -54,7 +54,13 @@ and is currently officially unsupported. (In latest versions of Selenium).
 
 - https://www.selenium.dev/downloads/
 
+> Programming Languages supported by Selenium
+- Python, Java, CSharp (C#), Ruby, JavaScript.
+Others supported by selenium - Go, Haskell, Perl, PHP, R, Dart, Pharo Smalltalk.
 
+- https://www.selenium.dev/downloads/
+
+>
 
 
 
