@@ -93,7 +93,18 @@ Selenium 4 - Oct 13, 2021 (Latest as of now.)
 
 - https://www.selenium.dev/downloads/
 
+> Pre-requisites for Learning Selenium:
+1) Web Technologies:
+HTML basics, CSS basics, JavaScript basics,
+DOM (Document Object Model) basics,
+XML (Extensible Markup Language) basics,
+SQL (Structured Query Language) basics.
 
+2) Software Testing Basics.
+
+3) Locators.
+
+4) Programming Language.
 
 
 
