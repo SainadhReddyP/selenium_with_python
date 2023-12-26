@@ -1,0 +1,12 @@
+Python
+------
+->
+
+PyCharm IDE
+------------
+-> Project name, Directory name & Filename must be in CapitalCamelCase.
+Ex: PythonPractice
+
+Variables
+----------
+variables are used to store data.

@@ -1,0 +1,5 @@
+print("My name is Sainadh Reddy.", end=" ")
+print("I am Learning Python.", end=" ")
+print(1, end=" ")
+print(2, end=" ")
+print(3)
