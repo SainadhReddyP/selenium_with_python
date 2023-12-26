@@ -60,7 +60,22 @@ Others supported by selenium - Go, Haskell, Perl, PHP, R, Dart, Pharo Smalltalk.
 
 - https://www.selenium.dev/downloads/
 - https://www.selenium.dev/ecosystem/
->
+
+> Different components in Selenium:
+- Selenium is not a single tool, it is a set of tools(components).
+
+There are four different components:
+1. Selenium IDE (Record and Playback TOol)
+We can automate test cases.
+- https://www.selenium.dev/selenium-ide/
+-
+Drawbacks:
+- Maintenance is difficult, (more tests & if any step changes we need to record whole test).
+
+
+2. Selenium RC
+3. Selenium WebDriver
+4. Selenium Grid
 
 
 
