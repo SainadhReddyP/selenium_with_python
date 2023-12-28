@@ -85,3 +85,28 @@ Storing a lengthy text into a variable
 -----------------------------------------
 using \
 
+
+Formatting print statements
+-----------------------------
+- using + and str()
+- using ,
+- using {}
+- using {index}
+- using %s, %d, %f or %g
+
+Control flow statements
+------------------------
+3 categories
+
+1. Selection/Decision statements
+if, if..else, if..elif..else.
+
+2. Reptition/Loop statements
+while, for
+
+3. Transfer/Jump statements
+break, continue, return, try & except
+
+
+
+
