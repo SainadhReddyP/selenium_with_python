@@ -73,3 +73,15 @@ String Concatenation
 + cannot be used to concatenate String text with a number
 
 -> Using ,sign in print statements when concatenating String text with numbers
+
+Storing Multi-line preformatted String text into a variable
+------------------------------------------------------------
+poem = """
+pon the pyres of martyrs, every human will rise,
+In the soil of the motherland, every human will harmonize.
+"""
+
+Storing a lengthy text into a variable
+-----------------------------------------
+using \
+

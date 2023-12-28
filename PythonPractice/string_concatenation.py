@@ -12,4 +12,8 @@ print(1,2,3)
 
 print("Sainadh "+str(5)) # converting int into string
 
-
+poem = """
+Upon the pyres of martyrs, every human will rise,
+In the soil of the motherland, every human will harmonize.
+"""
+print(poem)
