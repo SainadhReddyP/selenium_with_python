@@ -107,6 +107,11 @@ while, for
 3. Transfer/Jump statements
 break, continue, return, try & except
 
-
+While loop
+----------
+- while loop won't be executed once, if the condition is false by default.
+- while loop executes infinite times if the condition is always true.
+- while loop iterates until the condition becomes false.
+- we can use else block with while loop.
 
 
