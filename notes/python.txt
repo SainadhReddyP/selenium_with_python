@@ -15,3 +15,61 @@ Data Types
 -----------
 int, float, string, boolean
 list, tuple, set, dictionary
+
+Type Casting
+-------------
+Converting one data type into another type
+
+
+Operators
+----------
+Arithmetic Operators
++, -, *, %, /, //, **
+
+a + b
+
+a and b are Operands
++ is Operator
+
+Assignment Operators
+=,
++=, -=, *=, /=, %= (Compound Assignment Operators)
+
+
+Relational Operators - returns boolean value
+
+==, !=, >, <, >=, <=
+
+if one condition is True, it will be True
+
+Logical Operators
+
+and, or, not
+
+Operator Precedence
+-------------------
+
+BODMAS - Brackets, Of, Divison, Multiply, Addition, Subtraction
+
+()- Highest Priority
+
+Followed by exponential operator (**)
+
+Followed by * / % // (Have the same precedence)
+
+Followed by + - (Have the same precedence)
+
+-> Same precedence operators are evaluated from left to right
+
+Deleting a variable
+-------------------
+del variable_name
+
+
+String Concatenation
+---------------------
+-> Using +sign for String concatenation
++ can only concatenate String text with another String text
++ cannot be used to concatenate String text with a number
+
+-> Using ,sign in print statements when concatenating String text with numbers
