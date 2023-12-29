@@ -151,6 +151,13 @@ collecting input from user
 - input() -> in-built function
 
 
+> max() and min() in-built functions
+-------------------------------------
+x = max(51,32,334,45,67,90)
+y = min(51,32,334,45,67,90)
+
+- we can use with string text
+
 
 
 
