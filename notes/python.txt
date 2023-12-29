@@ -135,6 +135,13 @@ my_function
 - default arguments in functions
 def print_name(name='Sainadh'):
 
+- functions can return data
+
+
+purpose of functions
+---------------------
+- repetition of the code can be resolved using functions.
+
 
 
 
