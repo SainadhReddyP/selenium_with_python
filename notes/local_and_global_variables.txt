@@ -1,0 +1,15 @@
+Global Variables:
+- variable created directly in the python file and outside the functions.
+- creating Global variable inside the function using global keyword.
+
+global variable_name
+
+
+Local Variables:
+- variable created inside the function
+
+-> we can create global variable and local variable with same variable name
+- inside the function it will prefer the local variable
+- outside the function it will prefer the global variable
+
+
