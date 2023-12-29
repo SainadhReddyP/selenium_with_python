@@ -140,7 +140,30 @@ def print_name(name='Sainadh'):
 
 purpose of functions
 ---------------------
-- repetition of the code can be resolved using functions.
+- repetition of the code can be resolved by using functions.
+
+> we can create multiple functions in the same python file
+
+
+collecting input from user
+--------------------------
+- collecting input from user and type casting if required
+- input() -> in-built function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
