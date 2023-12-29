@@ -119,3 +119,18 @@ break and continue statements
 -----------------------------
 using break and continue statements with for loop & while loop
 
+function
+---------
+function is a block of code.
+def my_function():
+
+- naming convention of functions - snake case.
+example:
+my_function
+
+
+
+
+
+
+
