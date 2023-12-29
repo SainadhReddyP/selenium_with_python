@@ -132,7 +132,8 @@ my_function
 - same function can be called multiple times.
 - functions can intake data (parametrizing data)
 
-
+- default arguments in functions
+def print_name(name='Sainadh'):
 
 
 
