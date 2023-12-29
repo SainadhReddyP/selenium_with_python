@@ -123,11 +123,14 @@ function
 ---------
 function is a block of code.
 def my_function():
+calling function to execute it
 
 - naming convention of functions - snake case.
 example:
 my_function
 
+- same function can be called multiple times.
+- functions can intake data (parametrizing data)
 
 
 
