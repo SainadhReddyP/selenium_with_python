@@ -115,3 +115,7 @@ While loop
 - we can use else block with while loop.
 
 
+break and continue statements
+-----------------------------
+using break and continue statements with for loop & while loop
+
