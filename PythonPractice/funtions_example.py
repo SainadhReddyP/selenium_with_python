@@ -7,6 +7,12 @@ def print_name(name):
 
 
 def default_argument_function(name='Sainadh'):
+    """
+    Description: When you are not passing any argument,
+    it will execute with the default argument.
+    :param name:
+    :return:
+    """
     print("My name is: "+name)
 
 
