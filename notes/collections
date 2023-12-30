@@ -36,6 +36,13 @@ dictionary
 list, tuple, set - group of values
 dictionary - group of key value pairs
 
+dictionary is mutable
+we can update and modify the elements
+
+
+
+
+
 
 
 
