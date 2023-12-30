@@ -9,15 +9,18 @@ List - []
 -----
 - mutable
 - can be updated and modified.
-
+- ordered, indexed
 
 tuple - ()
 -----
 - immutable
 - cannot update/modify
+- ordered, indexed
 
 
-
+Set - {}
+----
+- unordered, un-indexed, un-duplicated
 
 
 
