@@ -5,5 +5,20 @@ collections data types
 - 4 collection data types - list, tuple, set & dictionary
 
 
-List
+List - []
 -----
+- mutable
+- can be updated and modified.
+
+
+tuple - ()
+-----
+- immutable
+- cannot update/modify
+
+
+
+
+
+
+
