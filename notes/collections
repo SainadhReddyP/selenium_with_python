@@ -10,18 +10,23 @@ List - []
 - mutable
 - can be updated and modified.
 - ordered, indexed
+- duplicates are accepted
+- ordered - elements are stored in the same given order
 
 tuple - ()
 -----
 - immutable
 - cannot update/modify
 - ordered, indexed
-
+- duplicates are accepted
+- ordered - elements are stored in the same given order
 
 Set - {}
-----
+--------
+- mutable - we can update and modify the elements in a set
 - unordered, un-indexed, un-duplicated
-
+- duplicates are ignored
+- unordered - elements are stored in random order
 
 
 
