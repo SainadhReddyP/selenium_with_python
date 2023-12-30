@@ -29,4 +29,25 @@ Set - {}
 - unordered - elements are stored in random order
 
 
+dictionary
+----------
+- stores the multiple values in key value pairs
+
+list, tuple, set - group of values
+dictionary - group of key value pairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
