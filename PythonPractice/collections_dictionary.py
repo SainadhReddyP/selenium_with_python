@@ -42,12 +42,64 @@ for k,v in car.items():
     print(k,v)
 
 
-#
+# Removing an item from the dictionary
+print (car.pop('Model'))
+print(car)
 
 
+del car['Price']
+
+print(car)
+
+# removing last key
+car.popitem()
+print(car)
+
+car.clear()
+print(car)
 
 
+car = {
+    "Brand":"Honda",
+    "Model":"Brio",
+    "Price":800000,
+    "Mileage":19.5
+}
 
+print(len(car))
+del car # delete the complete dictionary
+
+car = {
+    "Brand":"Honda",
+    "Model":"Brio",
+    "Price":800000,
+    "Mileage":19.5
+}
+
+print(car)
+
+# compare one dict with another dict
+
+car_2 = {
+    "Brand":"Maruti",
+    "Model":"Swift",
+    "Price":800000,
+    "Mileage":19
+}
+
+print(car==car_2)
+print(car!=car_2)
+
+# even though the order is different but values and keys same
+
+car_1 = {
+    "Brand":"Honda",
+    "Price":800000,
+    "Mileage":19.5,
+    "Model":"Brio"
+}
+
+print(car==car_1)
 
 
 
