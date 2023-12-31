@@ -40,6 +40,17 @@ dictionary is mutable
 we can update and modify the elements
 
 
+list, tuple, set & dict (comparison)
+-------------------------------------
+[v1,v2,v3], (v1,v2,v3), {v1,v2,v3}, {k1:v1,k2:v2,k3:v3}
+
+Indexing, Indexing, No Indexing, No Indexing
+
+Ordered (same order), Ordered (same order), Un-ordered (Random order), Ordered (same order)
+
+Mutable, Immutable, Mutable, Mutable
+
+Duplicates are accepted, Duplicates are accepted,
 
 
 
