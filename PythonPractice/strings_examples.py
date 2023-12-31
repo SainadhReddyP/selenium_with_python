@@ -30,7 +30,15 @@ print("Sai" in first_name)
 # slicing
 print(first_name[1:3])
 
-#
+# Modifying Strings
+print(first_name.upper())
+print(first_name.lower())
+print("  Sainadh Reddy    ".strip()) # to remove leading and trailing spaces
+print(first_name.replace("d","t")) # replacing d with t
+
+name = "Sainadh Reddy"
+print(name.split()) # returns list
+
 
 
 
