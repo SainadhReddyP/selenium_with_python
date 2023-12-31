@@ -1,0 +1,3 @@
+Classes and Objects
+---------------------
+object is a real world entity
