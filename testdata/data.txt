@@ -1,1 +1,3 @@
-Hi! My name is Sainadh
+Hi! My name is Sainadh Reddy.
+I am learning Python.
+ Python is an easy programming language.
