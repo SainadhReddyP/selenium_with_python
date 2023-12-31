@@ -1,3 +1,20 @@
 Classes and Objects
 ---------------------
+
+Objects
+-------
 object is a real world entity
+
+examples: pen, mouse, etc.
+- we can represent real world entities as Objects in Python.
+
+Classes
+--------
+class is like a template/blueprint/factory which produces objects.
+- with the help of class we can create object
+
+example: cars - class
+honda brio, maruti swift, mahindra xuv -> objects
+
+
+
