@@ -50,7 +50,8 @@ Ordered (same order), Ordered (same order), Un-ordered (Random order), Ordered (
 
 Mutable, Immutable, Mutable, Mutable
 
-Duplicates are accepted, Duplicates are accepted,
+Duplicates are accepted, Duplicates are accepted, Duplicates are ignored,
+dict->keys must be unique but values can be duplicated
 
 
 
