@@ -16,5 +16,15 @@ class is like a template/blueprint/factory which produces objects.
 example: cars - class
 honda brio, maruti swift, mahindra xuv -> objects
 
+self keyword
+------------
+- represents something that belongs to the class.
+- can be used to access the variables and methods in the same class.
+- inside the class we have to use self to access the properties and
+outside the class we have to use object reference to access the class properties.
+- self parameter can be renamed.
+
+
+
 
 
