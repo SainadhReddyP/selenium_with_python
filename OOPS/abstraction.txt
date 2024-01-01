@@ -1,0 +1,13 @@
+Abstraction
+-----------
+Abstract Methods
+-----------------
+- the methods which are just defined but without implementation or method body
+
+Abstract Classes
+-----------------
+- class has at least one abstract method
+- abc is a predefined parent abstract class in python
+
+
+
