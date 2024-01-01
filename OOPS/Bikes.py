@@ -19,6 +19,7 @@ class Bikes:
         print("Model of the bike is: "+self.model)
         print("Price of the bike is: "+str(self.price))
         print("Mileage of the bike is: "+str(self.mileage))
+        print("******************************************")
         
 
 shine = Bikes()
@@ -26,3 +27,10 @@ shine.initialization_method('Honda','CB Shine',85000,54.5)
 shine.start_bike()
 shine.stop_bike()
 shine.print_bike_details()
+
+royal = Bikes()
+royal.initialization_method("Royal Enfield","Interceptor",350000,20)
+royal.start_bike()
+royal.stop_bike()
+royal.print_bike_details()
+
