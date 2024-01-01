@@ -23,6 +23,13 @@ self keyword
 - inside the class we have to use self to access the properties and
 outside the class we have to use object reference to access the class properties.
 - self parameter can be renamed.
+- To access class properties and methods
+    - inside the class (use self keyword)
+    - outside the class (use object reference)
+
+
+Assigning method parameters to class variables using self keyword
+------------------------------------------------------------------
 
 
 
