@@ -1,0 +1,17 @@
+Encapsulation
+-------------
+- is the process of wrapping up variables and methods into a single unit.
+- encapsulation is a mechanism, which wraps the data (i.e. variables)
+and code (i.e. methods) together under a single unit (i.e. Class).
+
+- i.e. In encapsulation, you cannot access data (i.e. variables) as a single unit,
+instead we have to take the help of methods to access the data (i.e. variables)
+
+- Encapsulation is achieved by privatizing the variables and accessing them by using
+getters and setters methods to modify and get the variable values.
+
+- Binding the data to the class, by making the variables as private and accessing them
+only via non-private methods (getter and setter methods)
+
+[see example of getter and setter methods file]
+
