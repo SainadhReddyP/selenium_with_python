@@ -1,0 +1,11 @@
+Inheritance
+------------
+- A child class acquiring the properties of parent class.
+
+Example:
+Parents
+
+Children - acquire the properties of the parents
+
+
+
