@@ -1,0 +1,25 @@
+Static variables, Static methods, Instance variables, Instance methods
+-----------------------------------------------------------------------
+Static variables, Static methods
+--------------------------------
+- related to class (belongs to Class)
+- common properties belongs to Class
+Example:
+wheels = 4 (every car has 4 wheels) -> static variable
+- static variables & static methods belongs to Class memory
+
+- static methods can access the static variables only
+
+- if you want to access instance variables, we can access by creating object for the class,
+and use it.
+
+Instance variables, Instance methods
+-------------------------------------
+- which are related to objects.
+- Non-common properties to objects
+Example:
+color = 'white' (for every car is different) -> instance variable
+- Instance variables & Instance methods belongs to Object memory
+
+- Instance methods can access both static and instance variables
+
