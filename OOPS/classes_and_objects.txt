@@ -28,8 +28,6 @@ outside the class we have to use object reference to access the class properties
     - outside the class (use object reference)
 
 
-Assigning method parameters to class variables using self keyword
-------------------------------------------------------------------
 
 
 
