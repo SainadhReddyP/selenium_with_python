@@ -7,5 +7,16 @@ Parents
 
 Children - acquire the properties of the parents
 
+Types of Inheritance
+--------------------
+1. Single
+2. Multilevel
+3. Hierarchical - Two child classes have same parent class
+4. Multiple - A child class has two parent classes - class Child(Mother,Father):
+5. Hybrid - Hierarchical + Multiple
+
+
+
+
 
 
