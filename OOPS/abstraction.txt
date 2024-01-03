@@ -9,6 +9,7 @@ Abstract Classes
 - class has at least one abstract method
 - abc is a predefined parent abstract class in python
 - we cannot create objects for Abstract Classes
+- we can create constructors inside a Abstract Class
 
 
 
