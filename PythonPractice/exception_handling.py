@@ -14,6 +14,14 @@ try:
     print(a)
 except ZeroDivisionError as ex:
     print("Exception occurred:",ex)
+else:
+    print("Inside else block.")
+finally:
+    print("Inside finally block.")
 
 print("End of the program.")
 
+try:
+    raise ZeroDivisionError("Dividing a number by zero")
+except ZeroDivisionError as ex:
+    print("Exception got handled:",ex)
