@@ -21,6 +21,8 @@ finally:
 
 print("End of the program.")
 
+
+# Raise custom exception messages
 try:
     raise ZeroDivisionError("Dividing a number by zero")
 except ZeroDivisionError as ex:
