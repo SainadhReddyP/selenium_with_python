@@ -12,8 +12,8 @@ number = int(input("Enter any number: "))
 try:
     a = 10/number
     print(a)
-except ZeroDivisionError:
-    print("Zero Division Error occurred.")
+except ZeroDivisionError as ex:
+    print("Exception occurred:",ex)
 
 print("End of the program.")
 
