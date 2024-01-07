@@ -1,0 +1,4 @@
+HTML Basics -> Locators -> Selenium
+
+- HTML is a pre-requisite for learning selenium.
+- Understanding HTML will help us in understanding locators.
