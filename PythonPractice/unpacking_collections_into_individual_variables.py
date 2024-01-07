@@ -18,3 +18,17 @@ my_set = {11,12,13}
 
 j, k, l = my_set
 print(j)
+
+
+my_dict = {'name':'Sainadh', 'age':28, 'location':'Hyderabad'}
+
+m, n, o = my_dict  # unpack only keys
+p, q, r = my_dict.values()  # unpack values
+print(m)
+print(p)
+
+
+# unpack range() function
+
+s, t, u, v = range(4)
+print(s)
