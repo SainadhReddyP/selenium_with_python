@@ -2,3 +2,23 @@ HTML Basics -> Locators -> Selenium
 
 - HTML is a pre-requisite for learning selenium.
 - Understanding HTML will help us in understanding locators.
+
+What is HTML?
+HTML is a language, to create the Web Pages.
+HTML stands for Hyper Text Markup Language.
+
+View Source Code - Ctrl+U
+Inspect an element - Ctrl+Shift+I
+
+
+
+
+
+
+
+
+
+
+
+
+
