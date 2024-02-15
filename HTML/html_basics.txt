@@ -11,6 +11,11 @@ View Source Code - Ctrl+U
 Inspect an element - Ctrl+Shift+I
 
 
+Tags, Attribute Names,
+
+
+
+
 
 
 
