@@ -94,6 +94,42 @@ Adding Rulers to the web page
 <hr/> - ruler tag - ruler line in html page
 
 
+Adding Images to the web page
+------------------------------
+<img/> - self closing tag - which starts and ends at the same place
+
+<img src="path of the image"/>
+
+
+
+Adding Line Breaks to the web page
+-----------------------------------
+<br/>
+
+
+Adding Tables to the web page
+-----------------------------
+
+<table border="1">
+    <tr>
+        <th> ID </th>
+        <th> Name </th> - table headings "th"
+    </tr>
+    <tr>
+        <td> 001 </td> - table data - "td"
+        <td> Sainadh </td>
+    </tr>
+    <tr>
+        <td> 002 </td>
+        <td> Rama </td>
+    </tr>
+    <tr>
+        <td> 003 </td>
+        <td> Krishna </td>
+    </tr>
+</table>
+
+
 
 
 
