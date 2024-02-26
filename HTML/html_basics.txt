@@ -89,6 +89,13 @@ Open Link in new tab
 
 
 
+Adding Rulers to the web page
+-----------------------------
+<hr/> - ruler tag - ruler line in html page
+
+
+
+
 
 
 
