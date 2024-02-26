@@ -54,6 +54,55 @@ Structure of HTML
 </html>
 
 
+Adding title to the Web Page
+------------------------------
+<title> SDET QA PORTAL </title>
+
+Adding paragraph to the web page
+---------------------------------
+<p> paragraph text </p>
+
+Adding Bold, Italic and Underlined text
+---------------------------------------
+<b> </b>
+<i> </i>
+<ul> </ul>
+
+
+Adding different sizes of Headings to the web page
+---------------------------------------------------
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+
+
+Adding Hyperlinks to the web page
+----------------------------------
+<a href="https://sdetqaportal.blogspot.com">SDET QA PORTAL </a>
+
+Open Link in new tab
+--------------------
+<a href="https://sdetqaportal.blogspot.com" target="_blank">SDET QA PORTAL </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
