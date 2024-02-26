@@ -9,14 +9,49 @@ HTML stands for Hyper Text Markup Language.
 
 View Source Code - Ctrl+U
 Inspect an element - Ctrl+Shift+I
+----------------------------------
+
+HTML Tags
+-----------
+<p> - start tag
+</p> - end tag
 
 
-Tags, Attribute Names,
+single tags
+-------------
+<hr/> -
+<br/> -
+
+<p attribute_name=attribute_value> Enclosed text</p>  -> HTML element
+
+<p id="username"> SDETPORTAL</p>
+
+HTML elements includes
+- start tags
+- end tags
+- attribute names
+- attribute values
+- enclosed text
 
 
+Structure of HTML
+--------------------
+<html> - start tag of html page
+</html> - end tag of html page
 
 
+<html>
 
+    <head> - child tag
+        <title> Title Name </title> - child tag of head tag
+
+    </head> - child tag
+
+    <body> - child tag
+
+    </body> - child tag
+
+</html>
 
 
 
